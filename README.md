@@ -1,6 +1,6 @@
-# Proxmox_Docs
+# Multi-server Rack 
 
-Proxmox HomeLab Docs
+ulti-server Rack - HomeLab Docs
 
 
 This repository documents my personal home lab, used for testing and learning. 
