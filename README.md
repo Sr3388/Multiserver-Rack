@@ -1,6 +1,6 @@
 # Multi-server Rack 
 
-ulti-server Rack - HomeLab Docs
+Multi-server Rack - HomeLab Docs
 
 
 This repository documents my personal home lab, used for testing and learning. 
