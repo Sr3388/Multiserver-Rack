@@ -11,8 +11,8 @@ It is used for system and networking experiments, and monitoring.
 Detailed Description:
 ---------------------
 
-- 1° Headless Router/Firewall Server: 
-   *	Router and firewall on pfSense 
+- 1° Headless Fanless Router/Firewall Server: Intel architecture
+   *	Router and firewall on pfSense ver 2.9.0
 
 - 2° Load Balancers: EliteDesk 800 G1 Mini
    *  HAProxy deployed across 2 VMs simulating 2 independent Load Balancers for High Availability and redundancy.
@@ -49,7 +49,7 @@ Detailed Description:
 Hardware
 --------
 
-- 1° Fanless 6 Gig, 6 port Ethernet Router/Firewall running pfSense  
+- 1° Fanless 6 Gig, 6 port Ethernet Router/Firewall running pfSense: Intel i3, 4 GB RAM, 40 GB SSD   
 - 2° Load Balancer: HP EliteDesk 800 G1 Mini: Intel i5, 8 GB RAM, 240 GB SSD   
 - 3° Headless Server: Lenovo ThinkCentre M710: Intel i7, 16 GB RAM, 256 GB SSD
 - 4° Headless Server: Lenovo ThinkCentre M710: Intel i7, 16 GB RAM, 256 GB SSD
